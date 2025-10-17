@@ -1,5 +1,4 @@
 # GOonline
-DIstributed System And Cloud Computing Project
 🏢 GoOnline — Digital Empowerment Platform for Small Businesses
 "Tagline: *Simple. Scalable. Collaborative."
 
